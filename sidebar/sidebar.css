@@ -6,7 +6,7 @@
     height: 100%;
     overflow-y: hidden;
     background: #2C3E50;
-    border: 2px solid red;
+    /*border: 2px solid red;*/
     opacity: 0.9;
 }
 
@@ -15,7 +15,7 @@
     width: 100%;
     position: absolute;
     padding: 15px;
-    border: 5px solid blue;
+    /*border: 5px solid blue;*/
 }
 
 
